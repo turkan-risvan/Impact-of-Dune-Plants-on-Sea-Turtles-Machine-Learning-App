@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+pip install --upgrade --force-reinstall seaborn
 import seaborn as sns
 from matplotlib import pyplot as plt
 # !pip install missingno
